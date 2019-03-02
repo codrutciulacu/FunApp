@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="pink">#FB987E</color>
+    <color name="orange">#FBC962</color>
+    <color name="light_green">#CDEDD7</color>
+    <color name="dark_green">#7CCBC5</color>
+
+    <color name="text_gray">#737373</color>
+
+    <color name="background_yellow">#FFF9CF</color>
+    <color name="background_light_green">#9BF99C</color>
+    <color name="background_dark_green">#128477</color>
+    <color name="background_pink">#D62261</color>
+    <color name="colorBackground">#FAFAFA</color>
+    <color name="colorDivide">#EEEEEE</color>
+    <color name="button_pink">#FC4482</color>
+</resources>
